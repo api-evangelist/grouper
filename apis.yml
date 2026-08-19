@@ -34,7 +34,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-legal-name: Element3 Health, Inc.
 x-headquarters: Boston, MA, USA
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
